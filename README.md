@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-- [Open in browser http://192.168.1.105:7777/](http://localhost:3000/)
+- [Open in browser](http://localhost:3000/)
 
 ## Techs Used
 
@@ -40,7 +40,7 @@ npm run dev
 
 ## Sources
 
-- [text](https://cointelegraph.com/rss-feeds)
+- [CoinTelegraph RSS Feeds](https://cointelegraph.com/rss-feeds)
 
 ## Development Timeline
 
